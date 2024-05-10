@@ -1,3 +1,9 @@
+<h1 align="center">
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&lines=Graphic+Designer">
+    </p>
+</h1>
+
 - 👋 Hi, I’m Laure Luyckx
 - 👀 I’m interested in Designing, Drawing and Cooking
 - 🌱 I’m currently learning Graphic Design and Digital Media
