@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luycl
+- 👋 Hi, I’m Laure Luyckx
 - 👀 I’m interested in Designing, Drawing and Cooking
 - 🌱 I’m currently learning Graphic Design and Digital Media
 - 💞️ I’m looking to collaborate on Graphic Design projects
